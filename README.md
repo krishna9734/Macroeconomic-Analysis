@@ -1,5 +1,6 @@
 # Macroeconomic-Analysis
 The Impact of Interest Rate Changes on Inflation and GDP Growth in US
+---------------------------------------------------------------------
 This project presents an in-depth analysis of the macroeconomic impact of key financial indicators—primarily interest rates, inflation rates, and real GDP growth—through the application of data-driven statistical and machine learning methodologies. The purpose of the study is to uncover patterns, assess relationships among variables, and predict future trends using historical economic data. The analytical framework is built to support robust economic policy evaluation and strategic decision-making for financial planning and macroeconomic forecasting.
 
 The study begins with a thorough exploration of the time series behavior of core macroeconomic indicators. Visual tools such as line plots and correlation heatmaps provide an initial understanding of data trends, volatility, and potential interdependencies. Notably, the time series plots reveal cyclicality in GDP growth, inflation, and interest rates, hinting at economic patterns shaped by policy interventions, external shocks, and cyclical behavior of markets.
